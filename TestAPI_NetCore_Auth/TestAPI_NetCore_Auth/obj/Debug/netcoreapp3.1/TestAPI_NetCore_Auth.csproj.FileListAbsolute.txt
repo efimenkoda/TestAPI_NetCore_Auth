@@ -158,3 +158,4 @@ D:\Project\C#\Галактика\TestAPI_NetCore_Auth\TestAPI_NetCore_Auth\TestA
 D:\Project\C#\Галактика\TestAPI_NetCore_Auth\TestAPI_NetCore_Auth\TestAPI_NetCore_Auth\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Project\C#\Галактика\TestAPI_NetCore_Auth\TestAPI_NetCore_Auth\TestAPI_NetCore_Auth\obj\Debug\netcoreapp3.1\TestAPI_NetCore_Auth.csproj.CoreCompileInputs.cache
 D:\Project\C#\Галактика\TestAPI_NetCore_Auth\TestAPI_NetCore_Auth\TestAPI_NetCore_Auth\obj\Debug\netcoreapp3.1\TestAPI_NetCore_Auth.MvcApplicationPartsAssemblyInfo.cache
+D:\Project\C#\Галактика\TestAPI_NetCore_Auth\TestAPI_NetCore_Auth\TestAPI_NetCore_Auth\obj\Debug\netcoreapp3.1\TestAPI_NetCore_Auth.csprojAssemblyReference.cache
